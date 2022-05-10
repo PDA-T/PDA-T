@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 
 <!-- details start -->
 <details>
-<summary>Others </summary>
 
 ## 📈 My GitHub Stats
 
