@@ -55,15 +55,5 @@ Here are some ideas to get you started:
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 ![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=pudongping&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
 
-## 📘 My own favorite open source projects
-
-<!-- GitHub Extra Pins - https://github.com/anuraghazra/github-readme-stats -->
-<a href="https://github.com/pudongping/global-pay.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=global-pay&show_owner=true&theme=nightowl" />
-</a>
-<a href="https://github.com/pudongping/pudongping.github.io.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pudongping&repo=pudongping.github.io&show_owner=true&theme=nightowl" />
-</a>
-
 </details>
 <!-- details end-->
