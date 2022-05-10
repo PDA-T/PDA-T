@@ -15,7 +15,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDA-T&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
+    <img width="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDA-T&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
 </p>
 
 <!-- </details> -->
