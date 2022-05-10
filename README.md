@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 <br />
 
 你好， 我是 [PDA-T](https://juejin.cn/user/3984285870859614)。
-
-  <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
 - 💬 如果你对我感兴趣，可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。
 - 📫 我的邮箱: [1581109028@qq.com](mailto:1581109028@qq.com);
