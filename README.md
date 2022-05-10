@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 <!-- details start -->
 <!-- <details> -->
-<summary>信息 </summary>
+<!-- <summary>信息 </summary> -->
 
 ## 📈 My GitHub Stats
 
-**NOTE:** Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+**NOTE:** 顶级语言并不表示我的技能水平或类似的东西，它是一个 GitHub 指标，用于衡量哪些语言在 GitHub 上的代码最多
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=pudongping&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
