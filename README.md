@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💬 如果你对我感兴趣，可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。
 - 📫 我的邮箱: [1581109028@qq.com](mailto:1581109028@qq.com);
-- 📝 [我的主页](1lin.xyz)
+- 📝 [我的主页](http://1lin.xyz)
 
 **技术栈 与 开发工具:**
 
