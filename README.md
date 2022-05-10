@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi，there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
 **PDA-T/PDA-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey，我是神奇的程序员 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
 <br />
 
-你好， 我是 [神奇的程序员](https://juejin.cn/user/3984285870859614) ，出生于2000年，一位有2年工作经验的前端开发工程师。
-
-你可能很好奇我的经历，正常来讲，这个年龄应该还在读大学，而你就已经有2年的工作经验了。此事说来话长，感兴趣的开发者请移步：[一枚19岁程序员的自学之路](https://juejin.cn/post/6844904025746309133)
-
+你好， 我是 [PDA-T](https://juejin.cn/user/3984285870859614)。
 
   <img align="right" alt="GIF" src="https://github.com/likaia/likaia/blob/main/code.gif" width="430" height="100%" />
 
