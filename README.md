@@ -71,14 +71,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png"></code>
 
 
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
-<code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png"></code>
-
-
-
 
 <img width="880px" height="300px" src="https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" alt="Alex's GitHub Stats">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) -->
