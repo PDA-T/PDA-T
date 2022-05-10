@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **技术栈 与 开发工具:**
 
-<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.jpg"></code>
+<code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
