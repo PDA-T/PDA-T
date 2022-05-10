@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
-<code><img height="20" src="https://pic1.pngsucai.com/00/25/91/ced58aad47f419da.webp"></code>
+<code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
 <code><img height="20" src="https://img.icons8.com/color/452/redis.png"></code>
 
 ![](https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura)
