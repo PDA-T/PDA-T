@@ -16,7 +16,7 @@
     <img width="460px" src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=aura&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
 <!--     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats"> -->
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img width="375px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDA-T&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
+    <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDA-T&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
 </p>
 
 <!-- </details> -->
