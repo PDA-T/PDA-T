@@ -13,7 +13,7 @@
 **NOTE:** 顶级语言并不表示我的技能水平或类似的东西，它是一个 GitHub 指标，用于衡量哪些语言在 GitHub 上的代码最多
 
 <p align="center">
-    <img width="460px" src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=aura&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
+    <img width="463px" src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=aura&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
 <!--     <img width="430px" src="https://github-readme-stats.vercel.app/api/?username=PDA-T&theme=shades-of-purple&show_icons=true&count_private=true" alt="Alex's GitHub Stats"> -->
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
     <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDA-T&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
