@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<p>
+<p align="center">
+    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="100" height="100%" />
 你好， 我是 [PDA](http://1lin.xyz)。
 
 - 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**
@@ -46,8 +47,6 @@ Here are some ideas to get you started:
 - 💬 **Telegram:** [**@Threada**](https://t.me/threada)
 - 📝 [**我的主页**](http://1lin.xyz)
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="100" height="100%" />
 </p>
 **技术栈 与 开发工具:**
 
