@@ -22,7 +22,7 @@
 <!-- </details> -->
 <!-- details end-->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="400" height="100%" />
 
 <!--
 **PDA-T/PDA-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
