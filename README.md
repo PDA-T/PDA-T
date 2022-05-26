@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <img alt="GIF" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />
 
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+
 **你好， 我是 [PDA](http://1lin.xyz)。**
 
 - 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**
