@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align='right' style="float:left" align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
+<img align='right' alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
 
 你好， 我是 [PDA](http://1lin.xyz)。
 
