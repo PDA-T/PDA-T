@@ -22,8 +22,6 @@
 <!-- </details> -->
 <!-- details end-->
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="100" height="100%" />
-
 <!--
 **PDA-T/PDA-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,6 +45,9 @@ Here are some ideas to get you started:
 - 📫 **我的邮箱:** [**1581109028@qq.com**](mailto:1581109028@qq.com);
 - 💬 **Telegram:** [**@Threada**](https://t.me/threada)
 - 📝 [**我的主页**](http://1lin.xyz)
+
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="100" height="100%" />
 
 **技术栈 与 开发工具:**
 
