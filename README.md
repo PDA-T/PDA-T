@@ -38,15 +38,8 @@ Here are some ideas to get you started:
 -->
 
 <br />
-
-<div align=center>
 <img style="float:left" align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
-</div>
-
-<!--<img style="float:left" align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />-->
-
 你好， 我是 [PDA](http://1lin.xyz)。
-
 - 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**
 - 📫 **我的邮箱:** [**1581109028@qq.com**](mailto:1581109028@qq.com);
 - 💬 **Telegram:** [**@Threada**](https://t.me/threada)
