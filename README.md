@@ -37,11 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="GIF" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />
+<img alt="GIF" display="inline" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />
 
 **你好， 我是 [PDA](http://1lin.xyz)。**
 
-- 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**<img alt="GIF" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />
+- 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**
 - 📫 **我的邮箱:** [**1581109028@qq.com**](mailto:1581109028@qq.com);
 - 💬 **Telegram:** [**@Threada**](https://t.me/threada)
 - 📝 [**我的主页**](http://1lin.xyz)
