@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="GIF" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />
+<!--<img alt="GIF" align="right" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" />-->
 
 <img align="right" alt="img" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%" height="auto" />
 
