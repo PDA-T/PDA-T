@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 
 <br />
-
+<p>
 你好， 我是 [PDA](http://1lin.xyz)。
 
 - 💬 **如果你对我感兴趣,可以加我[QQ](https://res.abeim.cn/api/qq/?qq=1581109028) 进一步交流。**
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="100" height="100%" />
-
+</p>
 **技术栈 与 开发工具:**
 
 <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
