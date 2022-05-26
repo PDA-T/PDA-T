@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="padding-right: 100px" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
+<img style="padding-left: 100px" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
 
 你好， 我是 [PDA](http://1lin.xyz)。
 
