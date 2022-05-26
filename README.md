@@ -45,7 +45,6 @@ Here are some ideas to get you started:
 - 📫 **我的邮箱:** [**1581109028@qq.com**](mailto:1581109028@qq.com);
 - 💬 **Telegram:** [**@Threada**](https://t.me/threada)
 - 📝 [**我的主页**](http://1lin.xyz)
-</p>
 
 **技术栈 与 开发工具:**
 
@@ -73,3 +72,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
 <img width="880px" height="300px" src="https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" alt="Alex's GitHub Stats">
 <!-- ![](https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) -->
+</p>
