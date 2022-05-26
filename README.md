@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<img alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
+<div>
+<img alt="GIF" align='right' src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
 
 你好， 我是 [PDA](http://1lin.xyz)。
 
