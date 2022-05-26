@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 -->
 
 <br />
-<p align="center">
+<p>
     
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/likaia/likaia/main/code.gif" width="430" height="100%" />
   
