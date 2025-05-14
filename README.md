@@ -6,7 +6,7 @@
 ## 👨‍💻 我过去 31 天的 GitHub 活动
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![pudongping's github activity graph](https://activity-graph.herokuapp.com/graph?username=PDA-T&theme=react-dark&area=true&custom_title=Alex%20Pu's%20Contribution%20Graph)
+![pudongping's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PDA-T&theme=react-dark&area=true&custom_title=Alex%20Pu%27s%20Contribution%20Graph)
 ## 📈 我的 GitHub 统计信息
 
 **NOTE:** 顶级语言并不表示我的技能水平或类似的东西，它是一个 GitHub 指标，用于衡量哪些语言在 GitHub 上的代码最多
