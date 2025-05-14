@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-<code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/golang_official_logo_icon_169092.png"></code>
+<code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171074.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
