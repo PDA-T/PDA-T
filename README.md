@@ -57,7 +57,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-143?style=flat&color=ff4088"><img alt="GoLand Logo" height="20" src="https://images.icon-icons.com/2530/PNG/512/jetbrains_goland_button_icon_151879.png"></a>
+    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-143?style=flat&color=ff4088"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
