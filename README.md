@@ -57,6 +57,7 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-143?style=flat&color=ff4088"><img alt="GoLand Logo" height="20" src="https://images.icon-icons.com/2530/PNG/512/jetbrains_goland_button_icon_151879.png"></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Avue"><img alt="Vue" src="https://img.shields.io/badge/Vue%20-%232b3847.svg?logo=vue.js"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=Linux&logoColor=black" /></a>
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3AShell"><img alt="Shell" src="https://img.shields.io/badge/Shell%20-%236fba48.svg?logo=shell"></a>
@@ -68,6 +69,7 @@ Here are some ideas to get you started:
 <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
+<code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
