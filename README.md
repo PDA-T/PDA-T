@@ -63,13 +63,13 @@ Here are some ideas to get you started:
     <a href="https://github.com/search?q=user%3Apudongping+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white"></a>
 <a href="#"><img alt="Redis" src="https://img.shields.io/badge/redis-%23c83d2e.svg?logo=redis&logoColor=white"></a>
-<a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-00ffff?logo=GoLand&logoColor=f0f8ff" /></a>
+<a href="#"><img alt="GoLand" src="https://img.shields.io/badge/GoLand-79d1ff?logo=GoLand&logoColor=f0f8ff" /></a>
 <a href="#"><img alt="PhpStorm" src="https://img.shields.io/badge/PhpStorm-eb488b?logo=PhpStorm&logoColor=ffffff" /></a>
 <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-96e07d?logo=PyCharm&logoColor=ffffff" /></a>
 <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-56c1eb?logo=WebStorm&logoColor=ffffff" /></a>
 <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white" /></a>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png"></code>
-<code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171073.png"></code>
+<code><img height="20" src="https://images.icon-icons.com/2699/PNG/512/golang_logo_icon_171074.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/vue_icon_130791.png"></code>
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png"></code>
 <code><img height="20" src="https://ae01.alicdn.com/kf/He03ed40a8bf942fc8d0797ef8f10f70fP.jpg"></code>
