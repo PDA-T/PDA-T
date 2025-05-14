@@ -44,9 +44,9 @@ Here are some ideas to get you started:
 
 **你好， 我是 [PDA](https://pda-t.github.io)。**
 
-- 💬 **如果你对我感兴趣,可以加我[WhatsApp](https://www.whatsapp.com) 进一步交流。**
+- 💬 **如果你对我感兴趣,可以加我[WhatsApp](https://web.whatsapp.com) 进一步交流。**
 - 📫 **我的邮箱:** [**Gmail**](mailto:private@gmail.com);
-- 💬 **Telegram:** [**PDA**](https://t.me/IPDAl);
+- 💬 **Telegram:** [**PDA**](https://web.telegram.org);
 - 📝 [**我的主页**](https://pda-t.github.io);
 
 **技术栈 与 开发工具:**
