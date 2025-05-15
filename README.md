@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
 <!--<img width="880px" height="300px" src="https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" alt="Alex's GitHub Stats">-->
-
+<br>
 <img width="100%" height="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=PDA-T&show_icons=true&theme=tokyonight" alt="Streak stats">
 <!--![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PDA-T&show_icons=true&theme=tokyonight)-->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=PDA-T&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura) -->
